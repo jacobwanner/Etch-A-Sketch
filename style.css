@@ -1,0 +1,12 @@
+.container {
+    border-width: 1px;
+    border-color: grey;
+    border-style: solid;
+}
+.square {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    width: 15px;
+    height: 15px;
+}
