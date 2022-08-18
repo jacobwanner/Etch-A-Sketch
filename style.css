@@ -2,6 +2,8 @@
     border-width: 1px;
     border-color: grey;
     border-style: solid;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
 }
 .square {
     border-width: 1px;
