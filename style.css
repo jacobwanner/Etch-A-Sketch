@@ -10,3 +10,9 @@
     width: 15px;
     height: 15px;
 }
+.empty-square {
+    background-color: blanchedalmond;
+}
+.colored-square {
+    background-color: black;
+}
