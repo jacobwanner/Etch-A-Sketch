@@ -3,7 +3,7 @@
     border-color: grey;
     border-style: solid;
     display: inline-grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
 }
 .square {
     border-width: 1px;
@@ -11,10 +11,4 @@
     border-style: solid;
     width: 15px;
     height: 15px;
-}
-.empty-square {
-    background-color: blanchedalmond;
-}
-.colored-square {
-    background-color: black;
 }
