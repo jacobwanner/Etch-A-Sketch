@@ -1,11 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
 .container {
     border-width: 1px;
     border-color: grey;
     border-style: solid;
-    display: inline-grid;
-    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
-    
+    display: grid;
 }
+
 .square {
     border-width: 1px;
     border-color: black;
